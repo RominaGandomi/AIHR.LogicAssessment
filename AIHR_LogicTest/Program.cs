@@ -42,7 +42,7 @@ namespace AIHR_LogicTest
             collection.Add(new DwarfPlanet() { Name = "Eris", Picture = "https://solarstory.net/img/articles/big/artists-impression-of-the-dwarf-planet-eris.jpg", DistanceFromSun = 10125000000, OrbitalPeriod = 203670, Mass = 1.67 });
             collection.Add(new DwarfPlanet() { Name = "Haumea", Picture = "https://solarstory.net/img/articles/big/artists-impression-of-the-dwarf-planet-haumea.jpg", DistanceFromSun = 6452000000, OrbitalPeriod = 104192, Mass = 4.00 });
             collection.Add(new DwarfPlanet() { Name = "Makemake", Picture = "https://solarstory.net/img/articles/big/artists-impression-of-the-dwarf-planet-makemake.jpg", DistanceFromSun = 847000000, OrbitalPeriod = 111690, Mass = 3.1 });
-            collection.Add(new DwarfPlanet() { Name = "Makemake", Picture = "https://solarstory.net/img/articles/big/artists-impression-of-the-dwarf-planet-makemake.jpg", DistanceFromSun = 847000000, OrbitalPeriod = 111690, Mass = 3.1 });
+            
 
             return collection;
         }
